@@ -1,0 +1,11 @@
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\dia10ht50Macro.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\dia10ht50Macro.pdb
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\SolidWorks.Interop.SldWorks.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\SolidWorks.Interop.swconst.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\SolidWorks.Proxy.Sldworks.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\bin\Debug\SolidWorks.IRemoteInteropObjectContract.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\obj\Debug\dia10ht50Macro.csproj.Properties.Resources.resources
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\obj\Debug\dia10ht50Macro.csproj.GenerateResource.Cache
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\obj\Debug\dia10ht50Macro.dll
+C:\Users\SIBERAJA\Desktop\SW Check\02.12.2018_macro\cyl4\dia10ht50Macro\SwMacro\obj\Debug\dia10ht50Macro.pdb

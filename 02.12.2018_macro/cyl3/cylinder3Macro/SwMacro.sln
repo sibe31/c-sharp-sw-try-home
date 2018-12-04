@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005 Tools for Applications
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cylinder3Macro", "SwMacro\cylinder3Macro.csproj", "{7272EF6A-0D1B-4A34-A0F0-0A55F1BEDAE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7272EF6A-0D1B-4A34-A0F0-0A55F1BEDAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7272EF6A-0D1B-4A34-A0F0-0A55F1BEDAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7272EF6A-0D1B-4A34-A0F0-0A55F1BEDAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7272EF6A-0D1B-4A34-A0F0-0A55F1BEDAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
